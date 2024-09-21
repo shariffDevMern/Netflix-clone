@@ -21,7 +21,7 @@ A fully responsive Netflix landing page clone built using HTML, CSS, and JavaScr
 ## Screenshots
 
 ### Hero Section
-![Hero Section](ScreenShots/Netflix Desktop View.png)
+![Hero Section]("https://ibb.co/m04mhQ1"><img src="https://i.ibb.co/ScB2VqW/Netflix-Desktop-View.png)
 
 ### Features Section
 ![Feature Section](https://i.ibb.co/vcm2Qcq/enjoy-video-gif.gif)
