@@ -28,7 +28,7 @@ A fully responsive Netflix landing page clone built using HTML, CSS, and JavaScr
 
 ## Demo
 
-You can view the live demo of the Netflix clone [here](https://your-netflix-clone-link.com).
+You can view the live demo of the Netflix clone [here]([https://your-netflix-clone-link.com](https://shariffdevmern.github.io/Netflix-clone/)).
 
 ## How to Run the Project
 
