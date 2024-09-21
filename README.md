@@ -34,7 +34,7 @@ You can view the live demo of the Netflix clone [here]([https://your-netflix-clo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shariffDevMern/netflix-clone.git
+   git clone https://github.com/shariffDevMern/Netflix-clone
 2. Navigate to the project folder:
    ```bash
 
