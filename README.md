@@ -38,5 +38,5 @@ You can view the live demo of the Netflix clone [here]([https://your-netflix-clo
 2. Navigate to the project folder:
    ```bash
 
-   cd netflix-clone
+   cd Netflix-clone
 3. Open index.html in your preferred web browser.
